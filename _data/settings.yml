@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> 薛志超 <br> 品牌设计师
   image: /avatar.jpg  
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -88,9 +88,9 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
+  - { name: PS Design, color: "#fdb157", value: "90%" }
+  - { name: Logo Design, color: "#9473e6", value: "90%" }
+  - { name: Ilustrator, color: "#bdecf6", value: "90%" }
   - { name: Web App, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
