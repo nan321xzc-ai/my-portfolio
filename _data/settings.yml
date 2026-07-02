@@ -48,10 +48,10 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: 我是品牌设计师，专注于视觉识别系统、包装设计和品牌策略。用设计讲故事，让品牌更有温度。
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: 了解更多
 
 # About Page
 
@@ -71,8 +71,8 @@ work-process:
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
+  - title: "薛志超"
+    image: "/avatar.jpg"
     designation: "Project Manager"
 
   - title: "Julias Carlie"
