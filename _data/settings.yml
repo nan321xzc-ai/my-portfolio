@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: 薛志超 丨 品牌设计师
 logo:
 author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+description: 品牌设计师 / 视觉创作者
+email: 1273579367@qq.com
+phone: +132 7302 0127
+address: 中国·上海
+copyright: Copyright &copy; 2026 Designed by 薛志超
 
 menu:
   - { name: About, link: "/about" }
